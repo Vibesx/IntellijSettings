@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="IDGeneration.Generate18Id">
+    <keyboard-shortcut first-keystroke="ctrl less" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="IDGeneration.Generate32ID">
+    <keyboard-shortcut first-keystroke="shift ctrl less" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+</keymap>
