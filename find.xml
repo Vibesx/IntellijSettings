@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>in*.ts</mask>
-      <mask>i*.ts</mask>
-      <mask>*.h</mask>
       <mask>implte</mask>
       <mask>impltest*.</mask>
       <mask>impltest*</mask>
@@ -28,12 +26,15 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.t</mask>
       <mask>*.html</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.ts</mask>
+      <mask>.</mask>
+      <mask>.j</mask>
+      <mask>.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
