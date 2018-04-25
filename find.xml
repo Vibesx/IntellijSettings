@@ -21,7 +21,6 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.jav</mask>
       <mask>*.t</mask>
       <mask>*.html</mask>
       <mask>*.x</mask>
@@ -29,11 +28,12 @@
       <mask>.</mask>
       <mask>.j</mask>
       <mask>.java</mask>
-      <mask>*.java</mask>
       <mask>*en.xml</mask>
       <mask>*en_.xml</mask>
       <mask>*en_US.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
