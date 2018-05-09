@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*impltest.java</mask>
-      <mask>*imptest.java</mask>
-      <mask>*imtest.java</mask>
       <mask>*itest.java</mask>
       <mask>*test.java</mask>
       <mask>inde</mask>
@@ -24,7 +21,6 @@
       <mask>*en_US.xml</mask>
       <mask>*.jav</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -34,6 +30,10 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ts</mask>
+      <mask>*.j</mask>
+      <mask>*.jr</mask>
+      <mask>*.jrx</mask>
+      <mask>*.jrxml</mask>
     </recentFileMasks>
   </component>
 </application>
