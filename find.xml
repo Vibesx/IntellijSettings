@@ -3,14 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="index.ts" />
     <recentFileMasks>
-      <mask>*itest.java</mask>
-      <mask>*test.java</mask>
       <mask>inde</mask>
       <mask>index</mask>
       <mask>index.</mask>
       <mask>index.t</mask>
-      <mask>index.ts</mask>
       <mask>*.t</mask>
       <mask>*.html</mask>
       <mask>.</mask>
@@ -34,6 +32,9 @@
       <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.ts</mask>
+      <mask>.ts</mask>
+      <mask>inde.ts</mask>
+      <mask>index.ts</mask>
     </recentFileMasks>
   </component>
 </application>
