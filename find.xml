@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>inde</mask>
       <mask>index</mask>
@@ -27,13 +28,13 @@
       <mask>*.jr</mask>
       <mask>*.jrx</mask>
       <mask>*.jrxml</mask>
-      <mask>*.java</mask>
       <mask>.ts</mask>
       <mask>inde.ts</mask>
       <mask>index.ts</mask>
       <mask>*.ts</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
