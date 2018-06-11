@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Physician*" />
     <recentFileMasks>
-      <mask>inde</mask>
-      <mask>index</mask>
-      <mask>index.</mask>
-      <mask>index.t</mask>
-      <mask>*.t</mask>
-      <mask>*.html</mask>
-      <mask>.</mask>
-      <mask>.j</mask>
-      <mask>.java</mask>
-      <mask>*en.xml</mask>
-      <mask>*en_.xml</mask>
       <mask>*en_US.xml</mask>
       <mask>*.jav</mask>
       <mask>*.js</mask>
@@ -34,6 +24,17 @@
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>phy</mask>
+      <mask>phys</mask>
+      <mask>physi</mask>
+      <mask>physic</mask>
+      <mask>physicia</mask>
+      <mask>physician</mask>
+      <mask>physician*</mask>
+      <mask>*physician*</mask>
+      <mask>*hysician*</mask>
+      <mask>*Physician*</mask>
     </recentFileMasks>
   </component>
 </application>
