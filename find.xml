@@ -3,15 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*en_US.xml</mask>
       <mask>*.jav</mask>
       <mask>*.js</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jr</mask>
       <mask>*.jrx</mask>
@@ -19,7 +17,6 @@
       <mask>.ts</mask>
       <mask>inde.ts</mask>
       <mask>index.ts</mask>
-      <mask>*.ts</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -34,6 +31,10 @@
       <mask>*physician*</mask>
       <mask>*hysician*</mask>
       <mask>*Physician*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
