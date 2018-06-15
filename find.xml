@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.jav</mask>
       <mask>*.js</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
@@ -35,6 +34,7 @@
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
