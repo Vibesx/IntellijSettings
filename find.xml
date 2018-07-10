@@ -5,11 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
-      <mask>*.jrx</mask>
-      <mask>*.jrxml</mask>
-      <mask>.ts</mask>
       <mask>inde.ts</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
@@ -25,18 +21,21 @@
       <mask>*hysician*</mask>
       <mask>*Physician*</mask>
       <mask>*.t</mask>
-      <mask>*.html</mask>
       <mask>inde</mask>
       <mask>index</mask>
       <mask>index.</mask>
       <mask>index.t</mask>
       <mask>index.ts</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.ts</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
