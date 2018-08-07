@@ -5,10 +5,8 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>inde.ts</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>p</mask>
       <mask>phy</mask>
       <mask>phys</mask>
@@ -36,6 +34,9 @@
       <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
