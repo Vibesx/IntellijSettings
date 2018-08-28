@@ -3,38 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <recentFileMasks>
-      <mask>phy</mask>
-      <mask>phys</mask>
-      <mask>physi</mask>
-      <mask>physic</mask>
-      <mask>physicia</mask>
-      <mask>physician</mask>
-      <mask>physician*</mask>
-      <mask>*physician*</mask>
-      <mask>*hysician*</mask>
-      <mask>*Physician*</mask>
-      <mask>inde</mask>
-      <mask>index</mask>
-      <mask>index.</mask>
-      <mask>index.t</mask>
-      <mask>index.ts</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*IT.*" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*IT.*</mask>
   </component>
 </application>
