@@ -41,6 +41,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'AppointmentElasticIT.testPhysicianWithoutSGMatching'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'AppointmentElasticIT.testPhysicianWithoutSGMatching'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'LoginServiceSdkIT.changePassword'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
