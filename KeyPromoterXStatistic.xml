@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>86</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
