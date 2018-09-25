@@ -345,6 +345,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testResetPasswordHCP()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testResetPasswordHCP()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Save All">
         <Item>
           <IdeaActionID>SaveAll</IdeaActionID>
