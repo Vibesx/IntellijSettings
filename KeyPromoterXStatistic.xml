@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ProcessAppointmentServiceIT.requestVide…tment_sendEmail_successfullyReceiveEmail'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ProcessAppointmentServiceIT.testAcceptVideoAppointment'">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>568</Count>
+          <Count>570</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
