@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>134</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -310,6 +310,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'PhysicianManagementDoc4LifeIT....'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ProcessAppointmentServiceIT.rejectVideo…tment_sendEmail_successfullyReceiveEmail'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ProcessAppointmentServiceIT.rejectVideo…tment_sendEmail_successfullyReceiveEmail'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
