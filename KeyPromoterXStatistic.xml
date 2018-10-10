@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AppointmentElasticIT.testAppointmentIndexRefresh'">
@@ -79,6 +79,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'LoginServiceSdkIT.changePassword'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ProcessAppointmentServiceIT.acceptVideo…tment_sendEmail_successfullyReceiveEmail'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ProcessAppointmentServiceIT.acceptVideo…tment_sendEmail_successfullyReceiveEmail'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ProcessAppointmentServiceIT.rejectVideo…tment_sendEmail_successfullyReceiveEmail'">
@@ -134,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>657</Count>
+          <Count>659</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -225,6 +233,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PaymentReminderIT.cancelPaymentReminderNotificationForInvoice'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'PaymentReminderIT.cancelPaymentReminderNotificationForInvoice'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ProcessAppointmentServiceIT.requestVideoAppointment_sendEmail_successfullyReceiveEmail'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -262,7 +278,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>30</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AppointmentWishIT]'">
@@ -318,6 +334,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'PhysicianManagementDoc4LifeIT....'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ProcessAppointmentServiceIT.acceptVideo…tment_sendEmail_successfullyReceiveEmail'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ProcessAppointmentServiceIT.acceptVideo…tment_sendEmail_successfullyReceiveEmail'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
