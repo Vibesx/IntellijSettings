@@ -65,6 +65,14 @@
           <Count>55</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'AppointmentConfigServiceMIT.testMatchedPracticeIdUpdateTwoPhysicians'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'AppointmentConfigServiceMIT.testMatchedPracticeIdUpdateTwoPhysicians'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'AppointmentElasticIT.testAppointmentIndexRefresh'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
