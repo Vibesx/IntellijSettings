@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'PracticeSearchGeoSortIT.distanceWithoutPracticeCoordinates'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'PracticeSearchGeoSortIT.distanceWithoutPracticeCoordinates'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ProcessAppointmentServiceIT.acceptVideo…tment_sendEmail_successfullyReceiveEmail'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -166,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>780</Count>
+          <Count>786</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
