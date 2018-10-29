@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>788</Count>
+          <Count>795</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -534,6 +534,14 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PhysicianManagementDoc4LifeIT.testReindexAfterExtendedPhysicianDeleted'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'PhysicianManagementDoc4LifeIT.testReindexAfterExtendedPhysicianDeleted'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
