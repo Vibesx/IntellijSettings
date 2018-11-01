@@ -385,6 +385,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PhysicianManagementDoc4LifeIT.testRemoveIndexForPracticeWithNoInstitutionConfig'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'PhysicianManagementDoc4LifeIT.testRemoveIndexForPracticeWithNoInstitutionConfig'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ProcessAppointmentServiceIT.acceptVideo…tment_sendEmail_successfullyReceiveEmail'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -510,7 +518,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'testRemoveIndexFor...()'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testRequestVideoAp...()'">
@@ -550,6 +558,14 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Doc4LifeMailsIT'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Doc4LifeMailsIT'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
