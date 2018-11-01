@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'PhysicianManagementDoc4LifeIT.testRemoveIndexForPracticeWithNoInstitutionConfig'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'PhysicianManagementDoc4LifeIT.testRemoveIndexForPracticeWithNoInstitutionConfig'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'PracticeSearchGeoSortIT.distanceWithoutPracticeCoordinates'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -158,7 +166,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>170</Count>
+          <Count>171</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -174,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>868</Count>
+          <Count>881</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
