@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'PhysicianManagementDoc4LifeIT.testRemoveIndexForPracticeWithNoInstitutionConfig'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PracticeSearchGeoSortIT.distanceWithoutPracticeCoordinates'">
@@ -182,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>888</Count>
+          <Count>891</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
