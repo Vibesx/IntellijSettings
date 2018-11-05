@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>57</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AppointmentConfigServiceMIT.testMatchedPracticeIdUpdateTwoPhysicians'">
@@ -166,7 +166,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>174</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -526,7 +526,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'testRemoveIndexFor...()'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testRequestVideoAp...()'">
@@ -678,7 +678,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>57</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Backspace">
