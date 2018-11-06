@@ -185,12 +185,20 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'main'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'main'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>894</Count>
+          <Count>895</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -487,6 +495,22 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'getContractConfigu...()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'main'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'main'</Description>
+          <Count>27</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'main.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'main.main()'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'rejectVideoAppoint...()'">
