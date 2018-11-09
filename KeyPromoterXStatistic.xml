@@ -174,7 +174,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>199</Count>
+          <Count>200</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -630,7 +630,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PhysicianManagementDoc4LifeIT.testReindexAfterExtendedPhysicianDeleted'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PracticeServiceSearchIT'">
