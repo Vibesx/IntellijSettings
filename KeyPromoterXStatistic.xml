@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'PhysicianManagementDoc4LifeIT.testRemov…ExtendedPhysicianWithNoInstitutionConfig'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'PracticeSearchGeoSortIT.distanceWithoutPracticeCoordinates'">
@@ -366,7 +366,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AppointmentConfigServiceMIT]'">
@@ -662,7 +662,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PhysicianManagementDoc4LifeIT.testRemoveIndexForExtendedPhysicianWithNoInstitutionConfig'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PracticeServiceSearchIT'">
