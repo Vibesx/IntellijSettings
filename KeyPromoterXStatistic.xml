@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AppointmentConfigServiceMIT.testMatchedPracticeIdUpdateTwoPhysicians'">
@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>932</Count>
+          <Count>933</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -598,7 +598,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'testRemoveIndexFor...()'</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testRequestVideoAp...()'">
@@ -655,6 +655,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PhysicianManagementDoc4LifeIT.testReindexAfterExtendedPhysicianDeleted'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PhysicianManagementDoc4LifeIT.testRemoveIndexForExtendedPhysicianWithNoInstitutionConfig'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'PhysicianManagementDoc4LifeIT.testRemoveIndexForExtendedPhysicianWithNoInstitutionConfig'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PracticeServiceSearchIT'">
