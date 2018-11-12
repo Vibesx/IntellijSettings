@@ -129,6 +129,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'PhysicianManagementDoc4LifeIT.testRemov…ExtendedPhysicianWithNoInstitutionConfig'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'PhysicianManagementDoc4LifeIT.testRemov…ExtendedPhysicianWithNoInstitutionConfig'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'PracticeSearchGeoSortIT.distanceWithoutPracticeCoordinates'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
