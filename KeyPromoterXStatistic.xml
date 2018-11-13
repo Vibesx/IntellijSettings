@@ -433,6 +433,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PhysicianManagementDoc4LifeIT.asdf'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'PhysicianManagementDoc4LifeIT.asdf'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PhysicianManagementDoc4LifeIT.testReindexAfterExtendedPhysicianDeleted'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
