@@ -198,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>242</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -718,7 +718,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Server'</Description>
-          <Count>25</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '[engine:junit-jupiter]/[class:com.cgm.life.it.platform.appointments.AppointmentConfigServiceMIT] (1)'">
