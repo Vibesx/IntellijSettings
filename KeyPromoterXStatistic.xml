@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>106</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AppointmentConfigServiceMIT.testMatchedPracticeIdUpdateTwoPhysicians'">
@@ -198,7 +198,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>261</Count>
+          <Count>263</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1152</Count>
+          <Count>1153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -398,7 +398,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>68</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AppointmentConfigServiceMIT]'">
@@ -455,6 +455,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Main'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'NewsletterIT]'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'NewsletterIT]'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PhysicianManagementDoc4LifeIT....'">
