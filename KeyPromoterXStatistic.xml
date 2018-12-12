@@ -849,6 +849,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '[engine:junit-jupiter]/[class:com.cgm.life.it.platform.appointments.doc4Life.ProcessAppointmentServiceIT]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '[engine:junit-jupiter]/[class:com.cgm.life.it.platform.appointments.doc4Life.ProcessAppointmentServiceIT]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'elvi'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
