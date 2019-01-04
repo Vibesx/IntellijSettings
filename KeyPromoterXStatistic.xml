@@ -785,6 +785,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'AppointmentServiceDoc4LifeIT'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AppointmentServiceDoc4LifeIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Doc4LifeMailsIT'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
