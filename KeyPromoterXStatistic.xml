@@ -222,7 +222,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>326</Count>
+          <Count>327</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -646,7 +646,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'findAppointmentsBy...()'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'getContractConfigu...()'">
