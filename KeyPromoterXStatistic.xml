@@ -185,6 +185,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ProcessAppointmentServiceIT.appointment_workflow_withSDK_rejectAndDelete'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ProcessAppointmentServiceIT.appointment_workflow_withSDK_rejectAndDelete'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ProcessAppointmentServiceIT.rejectVideo…tment_sendEmail_successfullyReceiveEmail'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
