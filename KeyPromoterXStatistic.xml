@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>350</Count>
+          <Count>352</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -902,6 +902,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'PhysicianManagementDoc4LifeIT.testRemoveIndexForPracticeWithNoInstitutionConfig'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PracticeServiceMIT.registerTwoPracticesAndThenRegisterGroupPractice_withG3Assist'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'PracticeServiceMIT.registerTwoPracticesAndThenRegisterGroupPractice_withG3Assist'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
