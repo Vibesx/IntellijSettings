@@ -19,7 +19,7 @@
     <mask>*.java</mask>
     <mask>prouser*.java</mask>
     <mask>Appointment*.java</mask>
-    <mask>*IT.java</mask>
     <mask>*.vsl</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
