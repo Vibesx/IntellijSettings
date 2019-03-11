@@ -238,7 +238,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>378</Count>
+          <Count>379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1430</Count>
+          <Count>1431</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
     </option>
