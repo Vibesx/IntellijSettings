@@ -238,7 +238,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>394</Count>
+          <Count>397</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1482</Count>
+          <Count>1486</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -999,6 +999,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ProUserServiceIT.testDeleteProUserAssistWhenNotLastHCPUser'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ProUserServiceIT.testRequestChangePassword'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ProUserServiceIT.testRequestChangePassword'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ProcessAppointmentServiceIT'">
