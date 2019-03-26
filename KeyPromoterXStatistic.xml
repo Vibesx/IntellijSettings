@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>164</Count>
+          <Count>165</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AppointmentConfigServiceMIT.testMatchedPracticeIdUpdateTwoPhysicians'">
@@ -246,7 +246,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Server'</Description>
-          <Count>415</Count>
+          <Count>420</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'elvi'">
@@ -462,7 +462,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>140</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AppointmentConfigServiceMIT]'">
@@ -519,6 +519,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Main'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MedicalServiceEServicesSdkIT]'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'MedicalServiceEServicesSdkIT]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MessagingServiceIT]'">
@@ -1046,7 +1054,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Server'</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '[engine:junit-jupiter]/[class:com.cgm.life.it.platform.appointments.AppointmentConfigServiceMIT] (1)'">
