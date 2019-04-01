@@ -1065,6 +1065,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ProUserServiceIT'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ProUserServiceIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ProUserServiceIT.testDeleteProUserAssistWhenNotLastHCPUser'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
