@@ -193,6 +193,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ProStorageServiceIT'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ProStorageServiceIT'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ProcessAppointmentServiceIT.acceptVideo…tment_sendEmail_successfullyReceiveEmail'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
