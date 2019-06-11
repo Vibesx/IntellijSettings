@@ -937,6 +937,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testDefaultFRQuest...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testDefaultFRQuest...()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testDeleteAllEntries()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
