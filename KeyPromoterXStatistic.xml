@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1945</Count>
+          <Count>1948</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -422,7 +422,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -1411,10 +1411,28 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Clear All">
+        <Item>
+          <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>
+          <Description>Clear All</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'testMatchedPractic...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
           <Description>Debug 'testMatchedPractic...()'</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Deploy">
+        <Item>
+          <IdeaActionID>Javaee.Deploy</IdeaActionID>
+          <Description>Deploy</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reimport">
+        <Item>
+          <IdeaActionID>Maven.ReimportProject</IdeaActionID>
+          <Description>Reimport</Description>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
