@@ -257,14 +257,6 @@
           <Count>15</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'Server'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'Server'</Description>
-          <Count>548</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'elvi'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -422,7 +414,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -1415,6 +1407,14 @@
         <Item>
           <IdeaActionID>ConsoleView.ClearAll</IdeaActionID>
           <Description>Clear All</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Server'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Server'</Description>
+          <Count>549</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'testMatchedPractic...()'">
