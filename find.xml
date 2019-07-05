@@ -19,10 +19,10 @@
     <mask>Appointment*.java</mask>
     <mask>*.json</mask>
     <mask>*.vsl</mask>
-    <mask>*IT.java</mask>
     <mask>pom.xml</mask>
     <mask>*Entity.java</mask>
     <mask>Appointment*</mask>
     <mask>*.java</mask>
+    <mask>*IT.java</mask>
   </component>
 </application>
