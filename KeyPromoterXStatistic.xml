@@ -398,7 +398,7 @@
           <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
           <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
           <Description>New Folder...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -446,7 +446,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -1382,7 +1382,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
