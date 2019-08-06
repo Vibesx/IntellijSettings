@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*Entity.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,11 +21,11 @@
     <mask>*.json</mask>
     <mask>*.vsl</mask>
     <mask>pom.xml</mask>
-    <mask>*Entity.java</mask>
     <mask>Appointment*</mask>
     <mask>*IT.java</mask>
     <mask>*.java</mask>
     <mask>*Impl.java</mask>
     <mask>*.sql</mask>
+    <mask>*Entity.java</mask>
   </component>
 </application>
