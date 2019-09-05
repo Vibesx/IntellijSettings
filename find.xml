@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*impl.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,5 +28,6 @@
     <mask>*.java</mask>
     <mask>*IT.java</mask>
     <mask>Measurement*.java</mask>
+    <mask>*impl.java</mask>
   </component>
 </application>
