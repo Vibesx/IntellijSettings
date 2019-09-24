@@ -1110,7 +1110,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'testProfileWithCodeableConceptWithMultipleDefaults()'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'testReindexAfterEx...()'">
@@ -1582,7 +1582,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
     </option>
