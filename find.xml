@@ -27,9 +27,9 @@
     <mask>*Entity.java</mask>
     <mask>*IT.java</mask>
     <mask>Measurement*.java</mask>
-    <mask>*impl.java</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*test.java</mask>
+    <mask>*impl.java</mask>
   </component>
 </application>
