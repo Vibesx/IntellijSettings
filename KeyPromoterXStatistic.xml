@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2452</Count>
+          <Count>2453</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1559,6 +1559,14 @@
           <ShortCut>'Ctrl+Shift+F6'</ShortCut>
           <Description>Type Migration...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
+          <Description>Undo</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Backspace">
