@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2449</Count>
+          <Count>2452</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>ChangeTypeSignature</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F6'</ShortCut>
           <Description>Type Migration...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Backspace">
