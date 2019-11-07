@@ -1145,6 +1145,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testGetTerminologyEntryExtensions()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testGetTerminologyEntryExtensions()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testLastAdminDelet...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
