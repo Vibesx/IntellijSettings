@@ -473,6 +473,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Open Module Settings">
+        <Item>
+          <IdeaActionID>OpenModuleSettings</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Module Settings</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
@@ -1350,7 +1358,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies...">
@@ -1646,7 +1654,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -1662,7 +1670,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>201</Count>
+          <Count>202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
