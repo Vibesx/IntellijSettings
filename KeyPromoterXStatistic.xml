@@ -305,6 +305,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Tomcat'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Tomcat'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'elvi'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -334,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2539</Count>
+          <Count>2540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -831,6 +839,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Server'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tomcat'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Tomcat'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'acceptVideoAppoint...()'">
