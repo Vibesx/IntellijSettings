@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Application'</Description>
-          <Count>83</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AppointmentConfigServiceMIT.testAssignD…QuestionnaireToExistingVideoAppointments'">
@@ -1446,7 +1446,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AppointmentConfigServiceMIT.testAssignDefaultFRQuestionnaireToExistingVideoAppointments'">
@@ -1726,7 +1726,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>222</Count>
+          <Count>223</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
