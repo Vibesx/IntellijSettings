@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>104</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2694</Count>
+          <Count>2698</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1726,7 +1726,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>231</Count>
+          <Count>232</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
