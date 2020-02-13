@@ -3,38 +3,33 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <recentFileMasks>
-      <mask>ind*.ts</mask>
-      <mask>in*.ts</mask>
-      <mask>i*.ts</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>implte</mask>
-      <mask>impltest*.</mask>
-      <mask>impltest*</mask>
-      <mask>impltest</mask>
-      <mask>*impltest</mask>
-      <mask>*impltest.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*impltest.java</mask>
-      <mask>*imptest.java</mask>
-      <mask>*imtest.java</mask>
-      <mask>*itest.java</mask>
-      <mask>*test.java</mask>
-      <mask>*.xml</mask>
-      <mask>*.ts</mask>
-      <mask>inde</mask>
-      <mask>index</mask>
-      <mask>index.</mask>
-      <mask>index.t</mask>
-      <mask>index.ts</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.xml" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*IT.*</mask>
+    <mask>AppointmentServiceImpl.java</mask>
+    <mask>*.csv</mask>
+    <mask>*.JSON</mask>
+    <mask>prouser*.java</mask>
+    <mask>Appointment*.java</mask>
+    <mask>*.json</mask>
+    <mask>*.vsl</mask>
+    <mask>pom.xml</mask>
+    <mask>Appointment*</mask>
+    <mask>*Impl.java</mask>
+    <mask>*.sql</mask>
+    <mask>*Entity.java</mask>
+    <mask>*IT.java</mask>
+    <mask>Measurement*.java</mask>
+    <mask>*test.java</mask>
+    <mask>*impl.java</mask>
+    <mask>*.java</mask>
+    <mask>*.java, *.class</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
