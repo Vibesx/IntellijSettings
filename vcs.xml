@@ -6,6 +6,10 @@
           <option name="url" value="http://git.cgm.ag" />
           <option name="userName" value="lucian.paslariu@cgm.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="vibesx" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
