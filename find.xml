@@ -29,9 +29,9 @@
     <mask>db-config.xml</mask>
     <mask>*test.java</mask>
     <mask>*.ts</mask>
-    <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.pom</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
