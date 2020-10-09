@@ -29,9 +29,9 @@
     <mask>*.ts</mask>
     <mask>*.pom</mask>
     <mask>*xml</mask>
-    <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
