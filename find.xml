@@ -32,8 +32,8 @@
     <mask>*xml</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*test.java</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
