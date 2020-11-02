@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -25,7 +26,6 @@
     <mask>pom.xml</mask>
     <mask>*.</mask>
     <mask>db-config.xml</mask>
-    <mask>*.ts</mask>
     <mask>*.pom</mask>
     <mask>*xml</mask>
     <mask>*.html</mask>
@@ -33,5 +33,6 @@
     <mask>*test.java</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
